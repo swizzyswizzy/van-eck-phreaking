@@ -20,6 +20,4 @@ Monitor: phillips 107t41 light frame 3
 
 Oscilloscope: WavePro 735Zi
 
-Antenna: R&S HK116E (20-300MHz)
-
-
+Antennas: R&S HK116E (20-300MHz) and other wideband antenna (~>2,5GHz, product name was lost)
