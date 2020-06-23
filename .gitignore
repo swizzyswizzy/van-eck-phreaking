@@ -1,3 +1,4 @@
 mappedValues-*.npy
 stanowisko*.prn
 filtered.npy
+__pycache__/
