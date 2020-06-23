@@ -9,6 +9,8 @@ To make research about this phenomena, tests has been carried out using an old C
 
 Signal length was 2/60 s (2 frames length, monitor's frequency refresh was 60Hz).
 
+Unfortunately, none of input test images has been recovered from signal received by antenna.
+
 Result images after signal processing are in folder "wyniki".
 
 
