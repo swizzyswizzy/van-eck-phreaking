@@ -1,6 +1,6 @@
 # van-eck-eavesdropping
 
-As part of the work in the White-Hats PWr scientific circle I took up the topic of the so-called Van Eck's Phreaking.
+As part of my academic work I took up the topic of the so-called Van Eck's Phreaking.
 This phenomenon is present in CRT monitors. Thanks to it, with the help of a good antenna, you can receive a signal containing a picture from such a monitor from a few to tens of meters. This is a direct threat to security and privacy, which was present at times when CRT monitors were widely used.More info:
 
 https://en.wikipedia.org/wiki/Van_Eck_phreaking
